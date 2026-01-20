@@ -1,0 +1,13 @@
+# Sanal ortamlar
+venv/
+.venv/
+env/
+anaconda/
+
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+
+# IDE ayarları
+.vscode/
+.idea/

@@ -1,0 +1,4 @@
+opencv-python==4.13.0.90
+mediapipe==0.10.11
+numpy==2.4.1
+protobuf==3.20.3
