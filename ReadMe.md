@@ -30,3 +30,9 @@ Bu süreçte şu konularda pratik deneyim kazanılmıştır:
 * El landmark (eklem) noktalarının analizi ve birbirlerine göre bağıl konumlarının hesaplanması.
 * Aynalanmış görüntü üzerinde sağ-sol el ayrımı mantığı geliştirme.
 * Sanal ortam (virtual environment) yönetimi.
+
+###### **MediaPipe El Landmark Noktaları**
+
+Projede kullanılan el eklem noktalarının (landmark) referans şeması aşağıdadır:
+
+![MediaPipe Hand Landmarks](hand_landmarks.png)
